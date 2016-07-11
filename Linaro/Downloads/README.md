@@ -67,4 +67,5 @@ Linaro offers monthly updates to QEMU, GDB, toolchain components and various ver
 
 ***
 
-More interested in bare-metal and long-term maintained [releases](https://launchpad.net/gcc-arm-embedded) for ARM embedded processors? We’re working with ARM to also supply a Cortex-R and Cortex-M bare-metal build. Major releases will be made once a year with quarterly update releases. Releases will be maintained for two years. Get these from Launchpad: https://launchpad.net/gcc-arm-embedded
+Interested in bare-metal development for [ARM embedded processors](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm)? We’re working with ARM to also supply a Cortex-R and Cortex-M bare-metal build with yearly major releases and quarterly updates. Get these from ARMDeveloper: https://developer.arm.com/open-source/gnu-toolchain/gnu-rm
+
